@@ -1,0 +1,44 @@
+.copy_right_footer {
+    position: fixed;
+    color:rgb(255, 255, 255);
+    width: 100%;
+    bottom: 0;
+    background-color: #ff8725;
+    line-height: 3;
+    text-align: center;
+    font-size: 18px;
+}
+body{
+    background-size: cover;
+}
+
+.heading 
+{
+    margin: 0px;
+    width: 100%;
+    background-color: #ff8725;
+    line-height:1.5;
+    font-weight: bolder;
+}
+#inputt
+{
+    font-size: 24px;
+    font-family:serif;
+    background-color: orange;
+    font: bolder;
+    width: 50%;
+    height: 50px;
+}
+#start , #pause , #stop ,  #no._of_objects , #status
+{
+    font-size: 18px;
+    background-color: orangered;
+    width: 15%;
+}
+canvas
+{
+    border: 2px solid white;
+    border-radius: 15px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px rgb(255, 102, 0);
+}
